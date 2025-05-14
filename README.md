@@ -49,3 +49,17 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+
+# 📊 GitHub Stats
+
+<div align="center">
+  
+  <!-- Main Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jannatulferdous2730&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
+  
+  <!-- Streak and Languages Side-by-Side -->
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=jannatulferdous2730&theme=dark&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jannatulferdous2730&theme=dark&hide_border=false&layout=compact" />
+  
+</div>
