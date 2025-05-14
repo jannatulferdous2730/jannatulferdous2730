@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <tr border="none">
 <td width="35%" align="left" valign="top">
   
-🔭 I'm currently working on **LittleSteps**  
+🔭 I'm currently working on [LittleSteps](https://github.com/jannatulferdous2730/LittleSteps)
 
 🌱 I'm currently learning **ML fundamentals & TensorFlow Lite**  
 
