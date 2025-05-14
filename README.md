@@ -14,13 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on LittleSteps
+🔭 I’m currently working on [LittleSteps](https://github.com/jannatulferdous2730/LittleSteps)
 
 🌱 I’m currently learning ML fundamentals & TensorFlow Lite.
 
 📱 Flutter + 🤖 ML | Let's collaborate!
-
-📫 How to reach me jannatulferdous.@gmail.com
 
 ⚡ Fun fact 🐍💼🕷️ – Imported a whole zoo
 
@@ -49,6 +47,24 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+# 🌐 Connect with me:
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/jannatul2730" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <!-- Kaggle -->
+  <a href="https://www.kaggle.com/jannatulferdousmeher" target="_blank">
+    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  
+  <!-- Gmail -->
+  <a href="mailto:jannatulferdous.2730@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 
 # 📊 GitHub Stats
