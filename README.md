@@ -63,3 +63,10 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jannatulferdous2730&theme=dark&hide_border=false&layout=compact" />
   
 </div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jannatulferdous2730&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=jannatulferdous2730&icon=5&color=0)](https://visitcount.itsvg.in)
+
