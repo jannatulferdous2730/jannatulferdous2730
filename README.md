@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 🔭 I’m currently working on [LittleSteps](https://github.com/jannatulferdous2730/LittleSteps)
 
 🌱 I’m currently learning ML fundamentals & TensorFlow Lite.
@@ -21,6 +21,29 @@ Here are some ideas to get you started:
 📱 Flutter + 🤖 ML | Let's collaborate!
 
 ⚡ Fun fact 🐍💼🕷️ – Imported a whole zoo
+
+-->
+
+<table align="center">
+<tr border="none">
+<td width="35%" align="left" valign="top">
+  
+🔭 I'm currently working on **LittleSteps**  
+
+🌱 I'm currently learning **ML fundamentals & TensorFlow Lite**  
+
+📱 Flutter + 🤖 ML | Let's collaborate!  
+
+⚡ Fun fact: 🐍💼🕷️ Imported a whole zoo  
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img align="center" alt="Coding" width="300" src="https://github.com/jannatulferdous2730/jannatulferdous2730/blob/main/coding-girl.gif?raw=true">
+
+</td>
+</tr>
+</table>
 
 
  # 💻 Tech Stack:
