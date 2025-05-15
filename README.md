@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ⚡ Fun fact: 🐍💼🕷️ Imported a whole zoo  
 
 </td>
-<td width="40%" align="center" valign="middle">
+<td width="20%" align="center" valign="middle">
 
 <img align="center" alt="Coding" width="300" src="https://github.com/jannatulferdous2730/jannatulferdous2730/blob/main/coding-girl.gif?raw=true">
 
