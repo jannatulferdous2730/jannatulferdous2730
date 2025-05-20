@@ -96,7 +96,7 @@ Here are some ideas to get you started:
 <div align="center">
   
   <!-- Main Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jannatulferdous2730&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
+  <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jannatulferdous2730&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" /> -->
   
   <!-- Streak and Languages Side-by-Side -->
   <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=jannatulferdous2730&theme=dark&hide_border=false" />
